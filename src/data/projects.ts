@@ -1,4 +1,12 @@
 export const projects = [
+    {
+    title: "Portfólio Profissional",
+    description:
+      "Landing page pessoal criada para apresentar meus serviços, projetos, processo de trabalho e formas de contato. Desenvolvida com visual moderno, dark e foco em conversão via WhatsApp.",
+    technologies: ["Next.js", "Tailwind CSS", "TypeScript", "GitHub Pages"],
+    projectUrl: "https://guilhermehba.github.io/portifolio/",
+    codeUrl: "https://github.com/guilhermehba/portifolio",
+  },
   {
     title: "Landing Page Profissional",
     description:
