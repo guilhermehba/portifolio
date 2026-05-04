@@ -1,5 +1,13 @@
 export const projects = [
     {
+    title: "Roadtrip Demo - Diário de Estrada",
+    description:
+      "Landing page interativa para registrar a jornada de um mochileiro pelo Brasil, com mapa por estado, fluxo de cidades visitadas, marcos importantes e storytelling visual.",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Mapa Interativo"],
+    projectUrl: "https://guilhermehba.github.io/roadtrip-demo/",
+    codeUrl: "https://github.com/guilhermehba/roadtrip-demo",
+  },
+    {
     title: "Portfólio Profissional",
     description:
       "Landing page pessoal criada para apresentar meus serviços, projetos, processo de trabalho e formas de contato. Desenvolvida com visual moderno, dark e foco em conversão via WhatsApp.",
